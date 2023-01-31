@@ -1,2 +1,2 @@
 # Portfolio
-My portfolio website
+The code that was used to make myself a portfolio website.
